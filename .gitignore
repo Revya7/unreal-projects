@@ -75,15 +75,15 @@ DerivedDataCache/*
 
 # Project i wanna ignore
 Test/
-Stack/
-Splashit/
+Stack-old/
+Splashit-old/
 MyProjectTest/
 MegaShrek/
 MegaShrek 4.23/
-Megaman/
-BallBounce/
-BattleTank/
-BuildingEscape/
+Megaman-old/
+BallBounce-old/
+BattleTank-old/
+BuildingEscape-old/
 
 # Custom
 */Binaries/
