@@ -72,31 +72,3 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
-
-# Project i wanna ignore
-Test/
-Stack/
-Splashit/
-MyProjectTest/
-MegaShrek/
-MegaShrek 4.23/
-Megaman/
-BallBounce/
-BattleTank/
-BuildingEscape/
-
-# Custom
-*/Binaries/
-*/Build/
-*/DerivedDataCache/
-*/Intermediate/
-*/Saved/*
-*/Binaries/*
-*/Build/*
-*/DerivedDataCache/*
-*/Intermediate/*
-*/Saved/*
-*/.vs/
-*/.vs/*
-*/Content/InfinityBladeEffects/*
-*/Content/StarterContent/*
